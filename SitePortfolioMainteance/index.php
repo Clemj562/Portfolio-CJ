@@ -17,14 +17,14 @@
     <div class="header-container">
       <!-- Logo à gauche -->
       <div class="logo">
-        <a href="404.php"><img src="./media/img/logositeP.png" class="logo-circle"></a>
+        <a href="index.html"><img src="./media/img/logositeP.png" class="logo-circle"></a>
       </div>
       <!-- Navigation centrale -->
       <nav class="nav-menu">
-        <a href="404.php">ACCUEIL</a>
-        <a href="404.php">A PROPOS</a>
-        <a href="404.php">PROJETS</a>
-        <a href="404.php">CONTACT</a>
+        <a href="index.html">ACCUEIL</a>
+        <a href="index.html">A PROPOS</a>
+        <a href="index.html">PROJETS</a>
+        <a href="index.html">CONTACT</a>
       </nav>
       <!-- Réseaux + bouton CV à droite -->
       <div class="socials">
@@ -50,9 +50,9 @@
     <div>
       <h3>Navigation</h3>
       <ul>
-        <li><a href="404.php">Accueil</a></li>
-        <li><a href="404.php">À propos</a></li>
-        <li><a href="404.php">Services</a></li>
+        <li><a href="index.html">Accueil</a></li>
+        <li><a href="index.html">À propos</a></li>
+        <li><a href="index.html">Services</a></li>
       </ul>
     </div>
     <div>
