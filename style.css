@@ -33,7 +33,7 @@
 
 .titre h5 {
   font-family: var(--second-font-family);
-  color: var(--primary-color);
+  color: var(--fourth-color);
   margin: 1rem;
   font-size: 1.2rem;
 }
@@ -48,12 +48,12 @@
 /**CSS BODY**/
 
 :root {
-  --primary-color: #D9C7F3;
-  --special-color: #9774cd;
-  --secondary-color: #fff4f4;
-  --third-color: #D5E1F2;
-  --fourth-color: #FFDEEA;
-  --fivth-color: #fff5c3;
+  --primary-color: #f49fbcff;
+  --special-color: #343435ff;
+  --secondary-color: #ffd3baff;
+  --third-color: #9ebd6eff;
+  --fourth-color: #169873ff;
+  --fivth-color: #ffffff;
   --text-color: black;
   --font-family: 'Bebas Neue';
   --second-font-family: 'Roboto';
@@ -196,7 +196,7 @@ main h4 {
 
 main h4 {
   font-size: 1.5rem;
-  color: var(--primary-color);
+  color: var(--fourth-color);
 }
 
 main a {
@@ -207,7 +207,7 @@ main a {
 }
 
 main a:hover {
-  color: var(--fourth-color);
+  color: var(--third-color);
   font-weight: bolder;
   text-decoration: none;
   transition: color 0.3s ease;
@@ -257,7 +257,7 @@ footer {
 
 .logo-footer:hover {
   filter: drop-shadow(0 0px 12px rgba(0, 0, 0, 0.3));
-  transform: scale(1.15) rotate(15deg);
+  transform: scale(1.15) rotate(-15deg);
   transition: transform 0.3s;
 }
 
@@ -359,7 +359,7 @@ footer {
 
 .logo-circle:hover {
   filter: drop-shadow(0 0px 12px rgba(0, 0, 0, 0.3));
-  transform: scale(1.15) rotate(15deg);
+  transform: scale(1.15) rotate(-15deg);
   transition: transform 0.3s;
 }
 
